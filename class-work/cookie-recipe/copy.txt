@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<p>The Best Chocolate Chip Cookies</p>
+The Best Chocolate Chip Cookies
 
-<img src="cookie-recipe/cookies.jpg">
+cookies.jpg (*hint: <img> tag, this is a bonus)
 
-<h3>Recipe by: Bonnie Owens</h3>
+Recipe by: Bonnie Owens
 
 Related Recipes
 	Amazing Chocolate Chip Cookies!
@@ -63,5 +57,3 @@ Nutrition Information
 Probably bad for you, but who cares. MMMMMM COOKIES!!!! nom nom nom
 
 This recipe was altered from Open Source Recipe for more recipes go here ("http://www.opensourcefood.com/people/Amanori/recipes/mamas-recipe-the-best-chocolate-chip-cookies")
-</body>
-</html>

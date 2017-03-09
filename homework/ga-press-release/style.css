@@ -1,0 +1,52 @@
+p {
+  color: red;
+  font-family: Helvetica;
+  margin-top: 50px;
+}
+a {
+  text-decoration: none;
+  color:#000;
+}
+.centerList {
+  text-align: left;
+  width: 100px;
+  margin: 0 auto;
+  width: 10%
+}
+body {
+  background: rgb(200,200,200);
+
+}
+.navBar {
+  background: #aaa;
+  position: fixed;
+  height: 60px;
+  width: 100%;
+
+}
+.button {
+  height: 100%;
+  float: left;
+  padding: 10px 20px 20px 20px;
+  margin: 10px 10px 0px 10px;
+  position:relative;
+  display: inline;
+}
+ul {
+  margin:0;
+}
+#banner {
+  background: url(assets/autumn_leaves.jpg);
+  height: 350px; /*fix this later*/
+    background-size: cover;
+}
+h2 {
+  text-align: center;
+}
+.active {
+  background-color:rgba(200,200,255,.7);
+}
+.heroTextBox {
+  margin: 30px 20px 30px 20px;
+  background-color: rgba(255,255,255,.5);
+}
