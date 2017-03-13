@@ -1,7 +1,7 @@
 p {
-  color: red;
   font-family: Helvetica;
   margin-top: 50px;
+  font-size: 15px;
 }
 a {
   text-decoration: none;
@@ -17,11 +17,16 @@ body {
   background: rgb(200,200,200);
 
 }
+.mainBody {
+  margin-left: 20%;
+  margin-right: 20%;
+}
 .navBar {
   background: #aaa;
   position: fixed;
   height: 60px;
   width: 100%;
+  padding-left: 16%;
 
 }
 .button {
@@ -47,10 +52,16 @@ h2 {
   background-color:rgba(200,200,255,.7);
 }
 .heroTextBox {
-  margin: 30px 20px 30px 20px;
+  margin: 30px 20px 30px 15%;
   background-color: rgba(255,255,255,.6);
   float: center;
   padding: 40px 60px;
   width: 30%;
   border-radius: 6px;
+}
+.borderBot {
+  border-bottom: 1px solid #000;
+  width: 50%;
+  margin: 0 auto;
+  margin-top:20px;
 }
