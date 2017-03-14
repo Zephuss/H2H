@@ -66,3 +66,6 @@ h2 {
 table {
 	border: 1px solid #000;
 }
+ul {
+	margin-top: 0px;
+}
