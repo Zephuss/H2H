@@ -1,3 +1,68 @@
-h1 {
-	color: red;
+p {
+  font-family: Helvetica;
+  margin-top: 50px;
+  font-size: 15px;
+}
+a {
+  text-decoration: none;
+  color:#000;
+}
+.centerList {
+  text-align: left;
+  width: 100px;
+  margin: 0 auto;
+  width: 10%
+}
+body {
+  background: rgb(200,200,200);
+
+}
+.mainBody {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.navBar {
+  background: #aaa;
+  position: fixed;
+  height: 60px;
+  width: 100%;
+  padding-left: 16%;
+
+}
+.button {
+  height: 100%;
+  float: left;
+  padding: 10px 20px 20px 20px;
+  margin: 10px 10px 0px 10px;
+  position:relative;
+  display: inline;
+}
+
+#banner {
+  background: url(assets/autumn_leaves.jpg);
+    background-size: cover;
+    padding: 100px;
+}
+h2 {
+  text-align: center;
+}
+.active {
+  background-color:rgba(200,200,255,.7);
+}
+.heroTextBox {
+  margin: 30px 20px 30px 15%;
+  background-color: rgba(255,255,255,.6);
+  float: center;
+  padding: 40px 60px;
+  width: 30%;
+  border-radius: 6px;
+}
+.borderBot {
+  border-bottom: 1px solid #000;
+  width: 50%;
+  margin: 0 auto;
+  margin-top:20px;
+}
+table {
+	border: 1px solid #000;
 }
