@@ -16,6 +16,7 @@ a {
 body {
   background: rgb(200,200,200);
 
+
 }
 .mainBody {
   margin-left: 20%;
@@ -64,7 +65,8 @@ h2 {
   margin-top:20px;
 }
 table {
-	border: 1px solid #000;
+	width: 50%;
+	margin: 0px auto;
 }
 ul {
 	margin-top: 0px;

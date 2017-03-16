@@ -1,0 +1,45 @@
+.container {
+	width: 960;
+	margin: 0 auto;
+	padding: 0 200px;
+}
+h1 {
+	text-align: center;
+	background: lightgreen;
+	padding: 50px 0;
+}
+.h-list {
+	text-align: center;
+	padding-bottom: 15px;
+}
+span {
+	display: inline-block;
+	margin: 0 20px;
+}
+a {
+	text-decoration: none;
+}
+#maui {
+	background: lightblue;
+	padding: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+#reykjavik {
+	background: lightgreen;
+	padding: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+#aspen {
+	background: lightblue;
+	padding: 20px;
+	text-align: center;
+}
+p {
+	font-size: 20px;
+}
+.footer {
+	text-align: center;
+	font-size: 40px;
+}
