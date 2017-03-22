@@ -1,0 +1,73 @@
+main, .header, .footer {
+    width: 720px;
+    padding: 54px;
+    padding-bottom: 0;
+    border-left: 6px solid #ddd;
+}
+body {
+    font-family: lato, sans-serif;
+    color: #444;
+    line-height:1.5;
+}
+img {
+    width:100%;
+}
+p {
+    color: #000;
+}
+a {
+    text-decoration: none;
+    color: #f00;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 { 
+    color: #a00;
+}
+h2 {
+    color:#000;
+}
+.secondHeader {
+    color: #000;
+}
+ul {
+    list-style:none;
+    padding-left: 0;
+}
+.horizontalList {
+    display: inline; 
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.footerMenu {
+    color:#d00;
+}
+.footerMenu:hover {
+    color:#a00
+}
+.footerList {
+    border-right: 1px solid black;
+}
+.mainMenu {
+    color:#ddd;
+}
+.mainMenu:hover {
+    color:#000;
+}
+.date {
+    color:#ccc;
+}
+.copy {
+    color:#bbb;
+}
+.article {
+    border-bottom: 1px solid black;
+    margin-bottom: 50px;
+}
+.continue {
+    float: right;
+}
+.continueContainer {
+    height:30px;
+}
