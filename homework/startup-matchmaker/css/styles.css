@@ -102,6 +102,10 @@ footer {
 	width:30%;
 	float: left;
 	padding: 10px 30px 10px 0px;
+	border-right: 1px solid #ccc;
+}
+.item:nth-child(3) {
+	border-right: none;
 }
 .whiteText {
 	color: #fff;
