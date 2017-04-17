@@ -1,0 +1,66 @@
+body {
+	height:600px;
+	background: #ddf;
+	margin: 0;
+}
+p, span {
+	font-size: 50px;
+}
+input {
+	border: 1px solid black;
+	display: inline;
+	font-size: 40px;
+	height: 50px;
+	width: 300px;
+}
+.temperature {
+	width: 65%;
+	display: inline-block;
+	float: left;
+	padding-top: -10px;
+	height: 600px;
+}
+.thermometer {
+	width: 34%;
+	height:100%;
+	display: inline-block;
+	/*background: #f00;*/
+	float: right;
+}
+.gauge {
+	background: #f00;
+	bottom: 0;
+	width: 50px;
+	margin: 0 auto;
+}
+
+.marginLeft50 {
+	margin-left: 100px;
+	margin-top: 200px;
+}
+.equal {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.overflow-hidden {
+	overflow: hidden;
+}
+.bubbleContain {
+	float: right;
+	width: 34%;
+	display: inline-block;
+}
+.bubble {
+	width: 100px;
+	height: 100px;
+	margin: 0 auto;
+	border-radius: 100px;
+	background: #f00;
+	margin-top:-6px;
+}
+.whiteSpace { 
+	width: 100%; 
+}
+.heightFix {
+	height: auto;
+}
