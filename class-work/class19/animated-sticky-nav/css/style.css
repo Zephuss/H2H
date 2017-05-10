@@ -1,0 +1,19 @@
+.wrapper {
+	text-align: center;
+}
+body {
+	margin-top: 75px;
+}
+header {
+	background: blue;
+	font-size: 75px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	transition: all 2s;
+}
+.header-offset {
+	background: red;
+	font-size: 30px;
+}

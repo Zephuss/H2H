@@ -3,31 +3,34 @@ body {
 	height: 4000px;
 	margin: 0;
 }
-#sky {
-	width: 100%;
+.sky {
 	height: 100%;
+	width: 100%;
 	background: url(../sky.jpeg);
 }
-
-
 .birdbox {
 	width: 300px;
 	height: 300px;
 	padding: 10px;
 	border: 2px solid blue;
+	background: white;
 	float: right;
 	position: fixed;
 }
-#bird_1 {
+.display {
 	display: none;
 }
-#bird_2 {
-	display: none;
+#bird1 {
+
 }
-#bird_3 {
-	display: none;
-} 
+#bird2 {
+
+}
+#bird3 {
+
+}
 .bird { 
 	width: 100px; 
 	height: 100px;
+	position: absolute;
 }
