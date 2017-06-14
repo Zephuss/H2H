@@ -1,0 +1,40 @@
+#header {
+	text-align: center;
+}
+
+#form10 {
+	border: 3pm solid black;
+	padding: 28px 50px 38px 50px;
+}
+
+
+/* page 1 */
+.c {
+	display: none;
+}
+
+.marker {
+	display: none;
+}
+
+.wufoo li.focused {
+	background-color: #fff
+}
+
+/* to make buttons on Page 1*/
+.radio {
+	display: none !important;	
+}
+.choice {
+	border: 3px solid black;
+	padding: 10px;
+	text-align: center;
+	font-weight: 600;
+	font-size: 15px;
+}
+.safari label.choice {
+	margin-top: 0px;
+}
+#header fieldset div span {
+	width: 25%
+}
